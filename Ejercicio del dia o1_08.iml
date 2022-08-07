@@ -8,5 +8,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="inheritedJdk" />
    <orderEntry type="sourceFolder" forTests="false" />
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="inheritedJdk" /> 
   </component>
 </module>
